@@ -1,3 +1,2 @@
-# Nexus - Project - 2
-
-# Simple Restaurant Website Login and Signup Authentication
+# project-nexus
+Project-nexus 2- Restaurant website page.
